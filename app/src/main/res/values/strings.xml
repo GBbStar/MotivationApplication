@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DoBetter,DoMore</string>
+
+    <string-array name="motivation_writings">
+        <item>당신이 얼마나 많은 실수를하거나 얼마나 느리게 진행하든, 당신은 여전히 ​​노력하지 않는 모든 사람들보다 앞서 있습니다. - 토니 로빈스</item>
+        <item>꿈은 당신이 하지 않으면 작동하지 않습니다 - 존 C. 맥스웰</item>
+        <item> 성공은 행복의 열쇠가 아닙니다. 행복은 성공의 열쇠입니다. 당신이하는 일을 사랑한다면 성공할 것입니다.- 알버트 슈바이처</item>
+        <item>계단 전체를 볼 필요가 없습니다. 첫 걸음 만 밟으면됩니다. - 마틴 루터 킹 주니어</item>
+        <item>진정한 동기는 성취, 개인 개발, 직업 만족도 및 인정에서 비롯됩니다. - Frederick Herzberg</item>
+    </string-array>
+
+    <string-array name="lock_screen_settings">
+        <item>글씨 크기 변경</item>
+        <item>폰트 변경</item>
+        <item>테마 변경</item>
+    </string-array>
+</resources>
